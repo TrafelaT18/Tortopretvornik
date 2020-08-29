@@ -18,3 +18,5 @@ Na primer
 ## Izpiši nov recept
 
 Na koncu ti program izpiše nov recept s pretvorjenimi sestavinami.
+
+Za zagon programa moraste zagnati skripto tortopretvornik.py
